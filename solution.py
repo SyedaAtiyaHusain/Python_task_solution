@@ -165,15 +165,6 @@ def func(n):
 print("Output of Question 7")
 print(func(int(input("Enter a number"))))
 
-
-
-
-
-
-
-
-
-
 '''
 Ques9.) Write a function that takes a path to a txt file as input and returns a list containing the number of words and sentences in the file. 
 Sample input - some txt file containing 10 lines and 100 words
